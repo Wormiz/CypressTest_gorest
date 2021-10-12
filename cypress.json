@@ -1,0 +1,10 @@
+{
+	"video": false,
+	"defaultCommandTimeout": 10000,
+	"testFiles": "**/*.{feature,features}",
+	"ignoreTestFiles": ["*.js", "*.md"],
+	"screenshotsFolder": "cypress/screenshots",
+	"baseUrl": "https://gorest.co.in/",
+	"viewportHeight": 600,
+	"viewportWidth": 1000
+}
